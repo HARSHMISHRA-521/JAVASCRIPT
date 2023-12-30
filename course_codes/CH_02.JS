@@ -1,6 +1,10 @@
 //CONST,VAR,LET IN JS
 //VAR WAS USED BEFORE ES6 ,IT CAN CREATE SOME BUG IN YOUR CODE ,SO WE NEGLECT IT AND USE LET
-// VAR CAN BE REDECLARE ,BUT LET OR CONST CANT ,BUT THEY CAN BE UPDATED
+// VAR CAN BE REDECLARE ,BUT LET OR CONST CANT ,BUT let CAN BE UPDATED const can't
+
+const author = "Harsh"
+console.log(author)
+
 // Example usage of let:
 let x1 = 10;
 console.log(x); // Output: 10
@@ -61,6 +65,7 @@ if (true) {
 }
   console.log(PI, radius, circumference); // Output: 3.14159 5 ReferenceError: circumference is not defined
 }
+
 
 exampleConst();
 console.log(PI, radius, circumference); // Output: 3.14159 undefined ReferenceError: radius is not defined
