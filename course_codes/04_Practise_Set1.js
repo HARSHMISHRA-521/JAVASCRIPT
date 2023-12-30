@@ -28,5 +28,4 @@ const dictionary = {
     happy : "being happy",
     sad : "being sad",
     proud : "being proud"
-
 }
