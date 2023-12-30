@@ -27,6 +27,6 @@ const dictionary = {
     kind : "being humble",
     happy : "being happy",
     sad : "being sad",
-    proud : "being prou"
+    proud : "being proud"
 
 }
