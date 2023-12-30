@@ -5,6 +5,7 @@
 const author = "Harsh"
 console.log(author)
 
+
 // Example usage of let:
 let x1 = 10;
 console.log(x); // Output: 10
@@ -18,6 +19,7 @@ console.log(y1); // Output: 30
 
 // Uncommenting the line below will result in an error because y is a constant and cannot be reassigned
 // y1 = 40;
+
 
 
 //Example of Block scope
